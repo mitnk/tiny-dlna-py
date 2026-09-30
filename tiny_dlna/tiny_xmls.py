@@ -89,6 +89,7 @@ XML_DESC_PTN = """<?xml version="1.0" encoding="UTF-8"?>
         <serviceType>urn:schemas-upnp-org:service:AVTransport:1</serviceType>
         <serviceId>urn:upnp-org:serviceId:AVTransport</serviceId>
         <controlURL>AVTransport/control</controlURL>
+        <eventSubURL>AVTransport/event</eventSubURL>
         <SCPDURL>dlna/AVTransport.xml</SCPDURL>
       </service>
       <service>
