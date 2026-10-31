@@ -2,6 +2,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/tiny-dlna.svg)](https://pypi.org/project/tiny-dlna/)
 
+RIIR: https://github.com/mitnk/tiny-dlna
+
 ## Install
 
 ```
